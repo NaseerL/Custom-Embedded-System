@@ -1,11 +1,4 @@
 //*****************************************************************
-//ECGR 5101
-//Lab 09
-//Naseeruddin Lodge
-//Srikar Thakkallapally
-//Group 12
-//
-//
 //The objective of this lab is to connect two MSP430G2553 together.
 //An ultrasonic sensor is connected to chip 1. It is used to find the
 //distance in cm and display it on Quad-Digit 7 segment LED connected
@@ -21,7 +14,6 @@
 //an embedded system which runs on a battery.
 //*****************************************************************
 
-//#include <msp430.h>
 #include <msp430g2553.h>
 
 
